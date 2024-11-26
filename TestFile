@@ -1,0 +1,26 @@
+[
+  {
+    "QuestionText": "What is the capital of France?",
+    "Options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "CorrectAnswer": 2,
+    "ExplanationUrl": "https://www.youtube.com/watch?v=example1"
+  },
+  {
+    "QuestionText": "Which planet is known as the Red Planet?",
+    "Options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "CorrectAnswer": 1,
+    "ExplanationUrl": "https://www.youtube.com/watch?v=example2"
+  },
+  {
+    "QuestionText": "What is the largest ocean on Earth?",
+    "Options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "CorrectAnswer": 3,
+    "ExplanationUrl": "https://www.youtube.com/watch?v=example3"
+  },
+  {
+    "QuestionText": "Who wrote 'Romeo and Juliet'?",
+    "Options": ["William Wordsworth", "William Shakespeare", "Charles Dickens", "Leo Tolstoy"],
+    "CorrectAnswer": 1,
+    "ExplanationUrl": "https://www.youtube.com/watch?v=example4"
+  }
+]
